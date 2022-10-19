@@ -1,3 +1,32 @@
+<h1 align="center">Hi 👋, I'm Suzel</h1>
+- 🔭 My Project Name **Codeial_React_App**
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+
+
+## Screenshots
+<div> 
+<h3>Home Page</h3>
+  <img src="https://user-images.githubusercontent.com/64069582/196612170-b5d1fb11-4ca0-466a-bbdb-84adac993dc2.png" width="350" height="200px">
+</div>
+
+<div> 
+  <h3>Update Profile</h3>
+  <img src="https://user-images.githubusercontent.com/64069582/196612263-787e50d9-dfbf-431f-87f9-7d8b3153bf4c.png" width="270" height="250">
+</div>
+
+<div> 
+  <h3>Add AND Remove Your Friends</h3>
+  <img src="https://user-images.githubusercontent.com/64069582/196613122-299c72bd-f75e-422a-a830-c55de04ef14e.png" width="270" height="250">
+</div>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
